@@ -1,7 +1,7 @@
 {
-  "name": "generator-",
+  "name": "generator-gus-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generator for gus project.",
   "main": "index.js",
   "files": [
     "generators"
@@ -9,7 +9,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:ephoton/generator-gus-project.git"
   },
   "keywords": [
     "yeoman-generator"
@@ -20,5 +20,6 @@
     "chalk": "^1.1.3",
     "yeoman-generator": "^0.24.1",
     "yosay": "^1.2.1"
-  }
+  },
+  "devDependencies": {}
 }
